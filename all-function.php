@@ -14,4 +14,6 @@ echo floor(4.445543);
  echo sqrt($a);
 #pow(); power number 2^6
  echo pow($a, 2);
+ # to generate random number
+ echo rand($min_number, $max_number);
 

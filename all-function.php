@@ -19,3 +19,6 @@ echo floor(4.445543);
 
  # to generate random number mt_rand();.It is fast
  echo mt_rand($min_number, $max_number);
+
+# in_array();to search an element from array
+echo mt_rand($search_element, $array_number);

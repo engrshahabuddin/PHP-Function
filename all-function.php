@@ -10,4 +10,8 @@ echo ceil(4.445543);
 
 # floor() only delete number after point 4.5555 and do not add any thing with  integer.Like ans:4
 echo floor(4.445543);
+#sqrt() to calculate root 
+ echo sqrt($a);
+#pow(); power number 2^6
+ echo pow($a, 2);
 

@@ -17,5 +17,5 @@ echo floor(4.445543);
  # to generate random number
  echo rand($min_number, $max_number);
 
- # to generate random number mt_rand();
- echo rand($min_number, $max_number);
+ # to generate random number mt_rand();.It is fast
+ echo mt_rand($min_number, $max_number);
